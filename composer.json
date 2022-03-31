@@ -1,0 +1,26 @@
+{
+    "name": "ds/logs",
+    "description": "By using this package you can maintain your project activity, exception and request logs\"",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ds\\Logs\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ds\\Logs\\LogsServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Latif",
+            "email": "latif@developers.studio"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
