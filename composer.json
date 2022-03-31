@@ -1,5 +1,5 @@
 {
-    "name": "ds/logs",
+    "name": "developers-studio/logs",
     "description": "By using this package you can maintain your project activity, exception and request logs\"",
     "type": "library",
     "license": "MIT",
