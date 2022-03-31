@@ -6,7 +6,7 @@
     "autoload": {
         "psr-4": {
             "Ds\\Logs\\": "src/",
-            "Ds\\Logs\\Http\\Middleware" : "src/Http/Middleware"
+            "Ds\\Logs\\Http\\Middleware\\" : "src/Http/Middleware"
         }
     },
     "extra": {
